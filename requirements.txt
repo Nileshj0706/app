@@ -1,4 +1,4 @@
 pandas
-streamlit
-st-aggrid
+streamlit>=1.52.0
+streamlit-aggrid
 xlsxwriter
